@@ -9,7 +9,7 @@ print(basket.index(4))
 #we can use multiple methods with tuples
 
 #concatenate
-tup1 = (1,2,3)
+tup1 = (1,2,8)
 tup2 = (4,5,6)
 add = tup1 + tup2
 print(add)

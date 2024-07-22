@@ -1,4 +1,4 @@
-#list = ['python', 'java', 'ruby', 'c', 'html', 'rust']
+#list = ['pythonn', 'java', 'ruby', 'c', 'html', 'rust']
 list = [34,2,66,21,10]
 print(list)
 
