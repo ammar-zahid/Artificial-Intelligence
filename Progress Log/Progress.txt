@@ -1,2 +1,13 @@
-Python Course (Practiced Lists and Tuples) Ongoing.....
-Prompt Engineering Guide By OpenAI ✅
+Python Course:
+    - Intro
+    - Modules, Pips, Repl
+    - Variables & datatypes
+    - Strings & Methods
+    - Lists and Tuples and their Methods
+    - Dictionary and Sets
+    - Conditional Expressions and Operators
+    - Loops
+    - In Progress..............
+
+
+Prompt Engineering ✅
