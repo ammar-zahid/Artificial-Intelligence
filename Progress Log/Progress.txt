@@ -1,13 +1,21 @@
 Python Course:
-    - Intro
-    - Modules, Pips, Repl
-    - Variables & datatypes
-    - Strings & Methods
-    - Lists and Tuples and their Methods
-    - Dictionary and Sets
-    - Conditional Expressions and Operators
-    - Loops
-    - In Progress..............
+    ➡ Fundamentals ✅
+        - Intro
+        - Modules, Pips, Repl
+        - Variables & datatypes
+        - Strings & Methods
+        - Lists and Tuples and their Methods
+        - Dictionary and Sets
+        - Conditional Expressions and Operators
+        - Loops
+        - Functions & Recursion
+        - File I/O
+
+    ➡ Object Oriented Programming
+        - In Progress..............
+
+    ➡ Projects
+        - Rock, Paper, Scissor Game (Simple) ✅
 
 
 Prompt Engineering ✅
